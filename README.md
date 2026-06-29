@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# Java Full Stack - React.js (Day 13-18)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the React.js projects and practice exercises completed during Day 13 to Day 18 of Java Full Stack training.
 
-## Available Scripts
+## Topics Covered
 
-In the project directory, you can run:
+- Introduction to React.js
+- React Project Setup
+- React Components
+- Functional Components
+- Class Components
+- State and Props
+- useState Hook
+- useEffect Hook
+- React Routing
+- Multi-page Navigation
+- JDBC Basics
+- Java Streams
+- Stream API Built-in Methods
+- Login Page Development
+- Frontend and Backend Connectivity
+- Fetch API Integration
+- Spring Boot and React Integration
+- Database Connectivity
+- Revision of Full Stack Concepts
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Java
+- Spring Boot
+- Maven
+- PostgreSQL
+- JDBC
+- IntelliJ IDEA
+- VS Code
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Description
 
-### `npm test`
+This project demonstrates the fundamentals of React.js, including functional and class components, state management using hooks, routing, and frontend development. It also includes Java Stream API examples, JDBC concepts, and a login page developed by integrating a React frontend with a Spring Boot backend using the Fetch API.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Outcome
 
-### `npm run build`
+Successfully implemented React.js concepts including components, hooks, routing, and frontend-backend integration. Gained practical experience in Java Streams, JDBC, and database connectivity while developing full-stack applications.# Java Full Stack - React.js (Day 13-18)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This repository contains the React.js projects and practice exercises completed during Day 13 to Day 18 of Java Full Stack training.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Topics Covered
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Introduction to React.js
+- React Project Setup
+- React Components
+- Functional Components
+- Class Components
+- State and Props
+- useState Hook
+- useEffect Hook
+- React Routing
+- Multi-page Navigation
+- JDBC Basics
+- Java Streams
+- Stream API Built-in Methods
+- Login Page Development
+- Frontend and Backend Connectivity
+- Fetch API Integration
+- Spring Boot and React Integration
+- Database Connectivity
+- Revision of Full Stack Concepts
 
-### `npm run eject`
+## Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Java
+- Spring Boot
+- Maven
+- PostgreSQL
+- JDBC
+- IntelliJ IDEA
+- VS Code
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Description
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project demonstrates the fundamentals of React.js, including functional and class components, state management using hooks, routing, and frontend development. It also includes Java Stream API examples, JDBC concepts, and a login page developed by integrating a React frontend with a Spring Boot backend using the Fetch API.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Outcome
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Successfully implemented React.js concepts including components, hooks, routing, and frontend-backend integration. Gained practical experience in Java Streams, JDBC, and database connectivity while developing full-stack applications.
